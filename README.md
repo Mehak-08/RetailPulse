@@ -130,4 +130,4 @@ RetailPulse/
 ├── outputs/
 │   └── screenshots/
 ├── README.md
-└── requirements.txt
+└── requirements.txt5
