@@ -130,4 +130,7 @@ RetailPulse/
 ├── outputs/
 │   └── screenshots/
 ├── README.md
-└── requirements.txt5
+└── requirements.txt
+
+## command to run
+py -m streamlit run app/streamlit_app.py  
